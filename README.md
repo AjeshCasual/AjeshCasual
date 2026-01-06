@@ -80,7 +80,7 @@ Here are some of my projects that I am currently working on:
 ### Roadmap
 - Continue developing Neural Nautilus by the mid Febuary
 - Start working on Project 2 & 3 and showcase what project 2 is about
-- Keep on updating skillset
+- Keep on ~updating~ improving skillset
 
 <div align="center">
   <h1><em>Casual ideas,</em><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bold>Serious Impact</bold></h1>
